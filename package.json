@@ -36,7 +36,7 @@
     "mocha": "^8.1.2",
     "mocha-chai-jest-snapshot": "^1.1.1",
     "prettier": "^1.19.1",
-    "prettier-plugin-solidity": "^1.0.0-beta.10",
+    "prettier-plugin-solidity": "^1.1.1",
     "solhint": "^3.3.4",
     "solhint-plugin-prettier": "^0.0.5",
     "solidity-coverage": "^0.7.16",
